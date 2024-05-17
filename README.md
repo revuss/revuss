@@ -1,4 +1,4 @@
-# Hi there, I'm Sarath Teja Revu! 👋
+# Hi there, I'm SarathTR! 👋
 
 Welcome to my GitHub profile! I'm a passionate Software Developer with expertise in full-stack development and a keen interest in creating efficient, secure, and customer-focused solutions.
 
@@ -35,11 +35,6 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with expertise
 - **Link**: [View Project](https://github.com/revuss/facial-recognition-attendance)
 
 ---
-
-## 📈 GitHub Stats
-
-![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=revuss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revuss&layout=compact&theme=radical)
 
 ---
 
