@@ -19,6 +19,11 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with expertise
 
 ## 🚀 Projects
 
+### Renting System Application 📱
+- **Technologies**: Angular, Express, MongoDB, Node
+- **Description**: A feature-rich renting property application supporting user selling, user renting, and wishlist system.
+- **Link**: [View Project](https://rentify-vfod.vercel.app/)
+
 ### Android Chat Application 📱
 - **Technologies**: Java, Android Studio, Firebase, XML
 - **Description**: A feature-rich Android chat application supporting real-time messaging, user authentication, and payment functionality.
@@ -27,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with expertise
 ### E-commerce Platform 🛒
 - **Technologies**: Java, Spring Boot, NextJS
 - **Description**: A scalable e-commerce platform with RESTful APIs for product management, user authentication, and order processing.
-- **Link**: [View Project](https://github.com/revuss/e-commerce-platform)
+- **Link**: [View Project](https://seaon.vercel.app/)
 
 ### Facial Recognition Attendance System 🎓
 - **Technologies**: OpenCV, Python, Excel
